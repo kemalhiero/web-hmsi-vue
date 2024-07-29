@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Circular Std';
+    src: url('./assets/fonts/CircularStd-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Circular Std Book';
+    src: url('./assets/fonts/CircularStd-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'montserratbold';
+    src: url('./assets/fonts/montserrat-bold-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'montserratregular';
+    src: url('./assets/fonts/montserrat-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.hmsi{font-family: Circular Std, 'segoe ui', sans-serif;}
+.huruf-normal{font-family: Circular Std Book, 'segoe ui', sans-serif;}
+.blog-normal{font-family: montserratregular, 'segoe ui', sans-serif;}
+.blog-tebal{font-family: montserratbold, 'segoe ui', sans-serif;}
+.tox-promotion{display: none;}
+
+
+.sub-dropdown {
+    @apply flex items-center w-full p-2 text-gray-900 transition duration-75 rounded-lg pl-11 hover:bg-gray-100;
+}
