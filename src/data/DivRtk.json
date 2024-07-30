@@ -1,0 +1,117 @@
+{
+    "nama_lengkap" : "RTK",
+    "slug" : "rtk",
+    "ket_divisi" : "Divisi yang berperan dalam pengelolaan, penataan, serta pemeliharaan kebersihan dan keindahan sekretariat HMSI Unand serta sebagai tim yang bertugas mengelola pengarsipan dan surat menyurat pengurus HMSI Unand serta urusan administrasi lainnya",
+    "visi" : "Menciptakan sekretariat yang terorganisir dengan tanggung jawab dan profesional sehinggan akan terciptanya sistem administrasi yang efektif dan efesien serta terwujudnya sekretariat yang nyaman untuk menunjang anggota dalam berkegiatan",
+    "misi" : [
+        "Mengelola dan menjaga kebersihan serta keindahan sekretariat dalam menciptakan kenyamanan bagi anggota untuk melaksanakan kegiatan sekretariat",
+        "Mengajak seluruh warga HMSI secara tidak langsung agar dapat menciptakan lingkungan sekretriat yang nyaman",
+        "Mengelola berkas dan dokumen kesekretariatan secara terorganisir dan mengoptimalkan kearsipan dokumen",
+        "Menciptakan tata ruang sekretariat yang menarik serta menjaga kerapian sekretarian dan lingkungannya"
+    ],
+    "staf_inti" : [
+        {
+            "jabatan" : "Ketua Divisi",
+            "slug": "kadiv",
+            "nama": "Athifa Rifda Andra"
+        },
+        {
+            "jabatan" : "Sekretaris-Bendahara",
+            "slug": "sekbend",
+            "nama": "Niki Yulia Nada"
+        }
+    ],
+    "nama_staf" : [
+        ["Ahmad Rifki Farid"],
+        ["Nurul Insan", "Putra Ilham"],
+        ["Fina Aulia Nazari"]
+    ],
+    "proker" : [
+        {
+            "heading_proker": "Piket Rutin",
+            "isi_proker" : {
+                "latar_belakang" : "Perlu dibentuk jadwal piket rutin pengurus HMSI secara jelas, sehingga secara tidak langsung pengurus HMSI dapat bekerjasama dan ikut serta dalam menjaga dan membersihkan ruang kesekretariatan",
+                "bentuk_kegiatan" : [
+                    "Mendata KRS seluruh pengurus HMSI 2023 dan menetapkan jadwal piket",
+                    "Pelaksanaan piket di setiap hari kerja kecuali hari libur",
+                    "Pengurus memiliki jatah 1x dalam seminggu untuk melaksanakan piket",
+                    "Jumlah pengurus yang piket dalam sehari adalah 8 orang",
+                    "Memantau dan mengontrol pelaksanaan piket melalui presensi yang disediakan (disertai dengan foto bukti kehadiran dengan cantuman tanggal)",
+                    "Presensi berupa link gform / QR Code",
+                    "Penetapan SOP dan sanksi lebih lanjut"
+                ]
+            }
+        },
+        {
+            "heading_proker": "Bedah Sekre",
+            "isi_proker" : {
+                "latar_belakang" : "Perlunya diadakan bedah sekretariat dimana pelaksanaannya dilakukan dengan melakukan goro/piket bersama dalam skala besar, sehingga ruang kesekretariatan dapat terjaga kenyamanan dan kebersihannya untuk dapat dipakai oleh seluruh warga HMSI",
+                "bentuk_kegiatan" : [
+                    "Membersihkan dan menata kembali ruang sekretariat",
+                    "Pengecekan inventaris",
+                    "Memantau dan mengontrol terlaksananya bedah sekretariat dengan pembuatan presensi",
+                    "Presensi dalam bentuk absen cetak",
+                    "Menyediakan konsumsi",
+                    "Menetapkan SOP dan sanksi untuk pengurus"
+                ]
+            }
+        },
+        {
+            "heading_proker": "Pengadaan Presensi",
+            "isi_proker" : {
+                "latar_belakang" : "Perlunya pengadaan presensi untuk setiap rapat ataupun kegiatan global himpunan sebagai catatan bukti kehadiran pengurus dalam setiap kegiatan yang diadakan",
+                "bentuk_kegiatan" : [
+                    "Membuat presensi dengan google form (online) ataupun mencetak presensi (offline) pada setiap kegiatan HMSI yang bersifat global",
+                    "Menyebarkan presensi yang telah dibuat di setiap rapat atau kegiatan global HMSI"
+                ]
+            }
+        },
+        {
+            "heading_proker": "Pengadaan dan Pengelolaan Inventaris",
+            "isi_proker" : {
+                "latar_belakang" : "Perlu adanya pengadaan terkait Inventaris HMSI yang baik agar dapat menunjang seluruh kegiatan kesekretariatan. Selain itu, juga diperlukan pengelolaan inventaris berupa kegiatan pendataan inventaris yang jelas dan rapi, sehingga dapat mempermudah dalam melihat kerusakan atau kehilangan inventaris yang ada di ruang kesekretariatan HMSI",
+                "bentuk_kegiatan" : [
+                    "Melakukan pengadaan inventaris yang dibutuhkan untuk kegiatan kesekretariatan",
+                    "Melakukan pendataan inventaris yang ada di sekretariat HMSI. Dan pengecekan kembali kondisi inventaris di setiap bulannya",
+                    "Merapikan dan menjaga inventaris kesekretariatan HMSI",
+                    "Melabeli seluruh inventaris milik HMSI",
+                    "Membuat SOP terkait peminjaman dan pengembalian inventaris. Serta sanksi kerusakan inventaris"
+                ]
+            }
+        },
+        {
+            "heading_proker": "Pendataan dan Pengarsipan Biodata Anggota Baru HMSI",
+            "isi_proker" : {
+                "latar_belakang" : "Perlunya pengumpulan dan pengarsipan biodata anggota baru HMSI dengan rapi dan jelas yang mungkin diperlukan untuk kepengurusan selanjutnya atau untuk keperluan lainnya",
+                "bentuk_kegiatan" : [
+                    "Membuat dan menyediakan formulir pendataan biodata anggota baru HMSI periode 2023 dalam bentuk google form",
+                    "Mengarsipkan biodata anggota baru HMSI periode 2023 dalam bentuk softcopy",
+                    "Membuat backup arsip biodata anggota baru HMSI periode 2023 di Google Drive",
+                    "Menyalin arsip biodata anggota baru HMSI periode 2023 di PC sekretariat HMSI"
+                ]
+            }
+        },
+        {
+            "heading_proker": "Pendataan dan Pengarsipan Biodata Pengurus HMSI",
+            "isi_proker" : {
+                "latar_belakang" : "Perlunya pengumpulan dan pengarsipan biodata pengurus HMSI 2022 dengan rapi dan jelas yang mungkin diperlukan untuk kepengurusan selanjutnya atau untuk keperluan lainnya",
+                "bentuk_kegiatan" : [
+                    "Membuat dan menyediakan formulir pendataan biodata pengurus HMSI periode 2023 dalam bentuk google form",
+                    "Mengarsipkan biodata pengurus HMSI periode 2023 dalam bentuk softcopy",
+                    "Membuat backup arsip biodata pengurus HMSI periode 2023 di Google Drive",
+                    "Menyalin arsip biodata pengurus HMSI periode 2023 di PC sekretariat HMSI"
+                ]
+            }
+        },
+        {
+            "heading_proker": "Sertifikat Pengurus",
+            "isi_proker" : {
+                "latar_belakang" : "Perlunya suatu penghargaan kepada setiap pengurus HMSI untuk menghargai dedikasinya selama menjalankan kepengurusan dalam satu periode HMSI",
+                "bentuk_kegiatan" : [
+                    "Berkoordinasi dengan medkraf untuk desain sertifikat",
+                    "Mengirimkan sertifikat kepada masing-masing pengurus lewat email"
+                ]
+            }
+        }
+    ]
+}

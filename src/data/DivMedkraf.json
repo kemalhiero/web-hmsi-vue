@@ -1,0 +1,88 @@
+{
+    "nama_lengkap" : "Medkraf",
+    "slug" : "medkraf",
+    "ket_divisi" : "Adalah divisi yang mengantarkan informasi melalui berbagai media dengan kreatifitas sebagai sumber dayanya sehingga menciptakan solusi dalam ranah komunikasi visual",
+    "visi" : "Mewujudkan Divisi Media Kreatif HMSI Unand sebagai pengantar dan pengelola media informasi dari HMSI Unand serta meningkatkan kemampuan dan kreativitas anggota dengan menyajikan konten-konten yang unik dan menarik",
+    "misi" : [
+        "Menjadi wadah pengantar informasi dan publikasi setiap kegiatan HMSI",
+        "engatur ketertiban penyampaian informasi yang ada",
+        "Memaksimalkan media informasi yang ada dalam penyampaian informasi",
+        "Menjadi wadah peningkatan skill dan kreativitas anggota",
+        "Menyajikan konten-konten yang menarik, kreatif, dan inovatif melalui berbagai media sosial sesuai dengan perkembangan zaman"
+    ],
+    "staf_inti" : [
+        {
+            "jabatan" : "Ketua Divisi",
+            "slug": "kadiv",
+            "nama": "Fathih Muhammad Alfi"
+        },
+        {
+            "jabatan" : "Sekretaris-Bendahara",
+            "slug": "sekbend",
+            "nama": "Akmal Rafi Nursya’bani"
+        }
+    ],
+    "nama_staf" : [
+        ["Bimbi Santriadi"],
+        ["Rasyid Nugrahesa Riqua", "Salsabila Rahmah"],
+        ["Daffa Abdillah"]
+    ],
+    "proker" : [
+        {
+            "heading_proker": "Pengelolaan Sosial Media",
+            "isi_proker" : {
+                "latar_belakang" : "Diperlukannya wadah yang digunakan sebagai penyebaran informasi",
+                "bentuk_kegiatan" : [
+                    "Mengelola media sosial dan berbagi informasi. (Media sosial yang digunakan yaitu Twitter, Instagram, LinkedIn, dan Youtube)"
+                ]
+            }
+        },
+        {
+            "heading_proker": "Jasa Desain",
+            "isi_proker" : {
+                "latar_belakang" : "Menjadi tempat bagi anggota yang membutuhkan desain untuk berbagai media, seperti spanduk, banner, dll",
+                "bentuk_kegiatan" : [
+                    "Membuat desain untuk berbagai kebutuhan, baik media cetak maupun media online sesusai SOP yang berlaku"
+                ]
+            }
+        },
+        {
+            "heading_proker": "Foto Pengurus",
+            "isi_proker" : {
+                "latar_belakang" : "Diperlukan dokumentasi pengurus HMSI yang dipajang di ruang sekretariat HMSI sebagai informasi kepada pengunjung sekretariat HMSI",
+                "bentuk_kegiatan" : [
+                    "Mengadakan sesi foto bersama kepengurusan HMSI periode 2023",
+                    "Mencetak foto tersebut ke dalam sebuah bingkai foto",
+                    "Memajang foto kepengurusan di sekretariat HMSI"
+                ]
+            }
+        },
+        {
+            "heading_proker": "Rekam Jejak",
+            "isi_proker" : {
+                "latar_belakang" : "Diperlukannya dokumentasi berupa foto dan video kegiatan-kegiatan yang dilakukan pengurus HMSI",
+                "bentuk_kegiatan" : [
+                    "Mendokumentasikan dan editing video setiap kegiatan yang dilaksanakan oleh Himpunan Mahasiswa SI dan setiap pengambilan dokumentasi dimasukkan ke dalam Google Drive dan di upload ke media sosial HMSI"
+                ]
+            }
+        },
+        {
+            "heading_proker": "Seminar Desain",
+            "isi_proker" : {
+                "latar_belakang" : "Diperlukannya pelatihan desain kepada pengurus HMSI maupun mahasiswa aktif FTI Unand",
+                "bentuk_kegiatan" : [
+                    "Memberikan pelatihan desain kepada pengurus HMSI maupun mahasiswa aktif FTI Unand dengan pemateri yang memiliki keahlian di bidang desain"
+                ]
+            }
+        },
+        {
+            "heading_proker": "Buku Tahunan",
+            "isi_proker" : {
+                "latar_belakang" : "Perlu adanya suatu dokumentasi untuk setiap kegiatan yang dilakukan selama periode kepengurusan sebagai kenang-kenangan bagi pengurus HMSI dan dapat menjadi motivasi bagi kepengurusan selanjutnya",
+                "bentuk_kegiatan" : [
+                    "Membuat desain dan mengumpulkan dokumentasi kegiatan selama setahun kepengurusan dalam bentuk album dengan keterangan kegiatan selama"
+                ]
+            }
+        }
+    ]
+}

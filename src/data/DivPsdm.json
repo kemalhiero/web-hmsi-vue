@@ -1,0 +1,81 @@
+{
+    "nama_lengkap" : "PSDM",
+    "slug" : "psdm",
+    "ket_divisi" : "Divisi yang bertanggung jawab dalam menghimpun anggota HMSI dalam mengoptimalkan dan memberdayakan seluruh potensi yang dimiliki melalui kegiatan yang berkaitan dengan nonakademik, meningkatkan peran aktif mahasiswa dalam berbagai kegiatan, serta dapat memberikan solusi terhadap masalah yang dihadapi anggota HMSI.",
+    "visi" : "Meningkatkan kualitas sumber daya mahasiswa menjadi lebih produktif dan kompeten serta juga turut serta meningkatkan tanggung jawab sosial mahasiswa terhadap masyarakat sekitar berlandaskan budaya, kekeluargaan, nilai - nilai religius dan intelektual serta mampu menampung wadah kreativitas setiap anggotanya.",
+    "misi" : [
+        "Mengadakan program-program akademik maupun non-akademik untuk meningkatkan softskill mahasiswa.",
+        "Menjadi wadah anggota HMSI dalam mewujudkan kreativitas dan gagasannya."
+    ],
+    "staf_inti" : [
+        {
+            "jabatan" : "Ketua Divisi",
+            "slug": "kadiv",
+            "nama": "Arbiyan Realson"
+        },
+        {
+            "jabatan" : "Sekretaris-Bendahara",
+            "slug": "sekbend",
+            "nama": "Rafiqatul Ulya"
+        }
+    ],
+    "nama_staf" : [
+        ["Muhammad Ikhlas"],
+        ["Dio Apridandi"]
+    ],
+    "proker" : [
+        {
+            "heading_proker": "ISL (Information System League)",
+            "isi_proker" : {
+                "latar_belakang" : "Perlu adanya kegiatan keolahragaan yang dapat meningkatkan silaturahmi antar mahasiswa sistem informasi sehingga dapat menimbulkan jiwa sportivitas",
+                "bentuk_kegiatan" : [
+                    "Menyebarkan link gform untuk mensurvey perlombaan olahraga yang diinginkan mahasiswa sistem informasi untuk dilombakan",
+                    "Melaksanakan perlombaan olahraga yang dapat diikuti oleh seluruh mahasiswa aktif sistem informasi berdasarkan hasil survey"
+                ]
+            }
+        },
+        {
+            "heading_proker": "Pendataan Prestasi Mahasiswa",
+            "isi_proker" : {
+                "latar_belakang" : "Data mahasiswa berprestasi diperlukan oleh pihak jurusan maupun HMSI untuk mempersiapkan mahasiswa menghadapi lomba akademis kedepannya dan untuk mengapresiasi mahasiswa yang berprestasi",
+                "bentuk_kegiatan" : [
+                    "Pengisian formulir mahasiswa berprestasi HMSI yang dapat digunakan untuk keperluan pihak jurusan maupun HMSI",
+                    "Berkoordinasi dengan divisi Medkraf untuk apresiasi mahasiswa yang berprestasi dalam bentuk ucapan selamat melalui feed/story di media sosial Instagram"
+                ]
+            }
+        },
+        {
+            "heading_proker": "Kaderisasi HMSI 2023",
+            "isi_proker" : {
+                "latar_belakang" : "Perlunya pelaksanaan kaderisasi 2023 untuk proses pembinaan sikap, karakter dan pola pikir setiap mahasiswa SI tahun 2022 yang dipertanggungjawabkan oleh pengurus HMSI 2022 sampai terbentuknya pengurus HMSI 2023",
+                "bentuk_kegiatan" : [
+                    "Melaksanakan kaderisasi secara offline (pemberian materi oleh pihak internal dan eksternal dari HMSI)",
+                    "Menjalankan teknis dari kaderisasi yang akan dijalankan sesuai konsep yang telah dirancang",
+                    "Melakukan sosialisasi kepada warga HMSI untuk melantik angkatan 2022 menjadi anggota muda dan anggota biasa",
+                    "Pembacaan Surat Keputusan (SK) setelah proses kaderisasi selesai"
+                ]
+            }
+        },
+        {
+            "heading_proker": "Pemberitahuan Seminar Hasil dan KP Mahasiswa",
+            "isi_proker" : {
+                "latar_belakang" : "Perlunya informasi terkait mahasiswa sistem informasi yang semhas agar dapat meningkatkan partisipasi untuk menghadiri semhas mahasiswa tersebut",
+                "bentuk_kegiatan" : [
+                    "Mencari informasi jadwal seminar hasil dan seminar KP anggota HMSI",
+                    "Berkoordinasi dengan jurusan dan divisi Eksternal dalam menyampaikan informasi anggota HMSI yang akan melaksanakan seminar hasil dan KP melalui WhatsApp Group"
+                ]
+            }
+        },
+        {
+            "heading_proker": "Pelepasan Anggota Biasa Sistem Informasi 2023",
+            "isi_proker" : {
+                "latar_belakang" : "Perlunya sarana untuk memberikan informasi terkait jurusan sistem informasi dan juga kampus kepada mahasiswa baru SI agar dapat mengenal jurusan dan himpunan secara singkat yang ada di Sistem Informasi",
+                "bentuk_kegiatan" : [
+                    "Melakukan parade wisuda untuk anggota biasa SI yang telah menyelesaikan masa studinya",
+                    "Berkoordinasi dengan divisi Eksternal dalam menyampaikan informasi anggota biasa HMSI yang akan wisuda melalui WhatsApp Group",
+                    "Berkoordinasi dengan divisi Medkraf untuk Apresiasi terhadap anggota biasa HMSI yang wisuda dalam bentuk ucapan selamat melalui feed/story di media sosial Instagram"
+                ]
+            }
+        }
+    ]
+}

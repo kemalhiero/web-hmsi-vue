@@ -1,0 +1,66 @@
+{
+    "nama_lengkap" : "Internal",
+    "slug" : "internal",
+    "ket_divisi" : "Merupakan divisi yang berfungsi memfasilitasi hubungan antar pengurus dan warga HMSI sekaligus mempererat dan menjaga kekeluargaan di HMSI",
+    "visi" : "Menjadikan Divisi Internal sebagai penyedia kebutuhan warga HMSI bagi dalam akademik maupun non-akademik",
+    "misi" : [
+        "Memantau, menampung, mempertimbangkan, dan memperjuangkan aspirasi mahasiswa yang berkaitan dengan usaha peningkatan kesejahteraan mahasiswa dalam hal akademis, biaya, dan fasilitas",
+        "Mengawasi berbagai kegiatan di dalam HMSI",
+        "Mempererat hubungan sesama warga Sistem Informasi"
+    ],
+    "staf_inti" : [
+        {
+            "jabatan" : "Ketua Divisi",
+            "slug": "kadiv",
+            "nama": "Arif Wahyudi"
+        },
+        {
+            "jabatan" : "Sekretaris-Bendahara",
+            "slug": "sekbend",
+            "nama": "Nabila Fitri Misyandra"
+        }
+    ],
+    "nama_staf" : [
+        ["Arieska Kharzani"],
+        ["Syadza Intan Benya"],
+        ["Mhd. Faiz Yunus"]
+    ],
+    "proker" : [
+        {
+            "heading_proker": "Upgrading Pengurus HMSI",
+            "isi_proker" : {
+                "latar_belakang" : "Diperlukan pengurus yang memiliki academic knowledge, skill of thinking, management skill, dan communication skill untuk sebuah organisasi",
+                "bentuk_kegiatan" : [
+                    "Sharing dari pemateri"
+                ]
+            }
+        },
+        {
+            "heading_proker": "Gathering Pengurus HMSI",
+            "isi_proker" : {
+                "latar_belakang" : "Diperlukan kegiatan yang dapat mempererat silaturahmi sesama pengurus HMSI sehingga dapat meningkatkan kerjasama yang lebih baik dalam kepengurusan",
+                "bentuk_kegiatan" : [
+                    "Makan bersama dan diskusi perihal HMSI"
+                ]
+            }
+        },
+        {
+            "heading_proker": "Gathering HMSI",
+            "isi_proker" : {
+                "latar_belakang" : "Diperlukan kegiatan hiburan untuk mengurangi tingkat kejenuhan yang tinggi dan kegiatan yang dapat mempererat tali silaturahmi",
+                "bentuk_kegiatan" : [
+                    "Outbound (Pantai)"
+                ]
+            }
+        },
+        {
+            "heading_proker": "Aspirasi dan Saran",
+            "isi_proker" : {
+                "latar_belakang" : "Diperlukan wadah aspirasi dan saran warga Sistem Informasi terkait kebijakan yang dianggap menyimpang",
+                "bentuk_kegiatan" : [
+                    "Melakukan penyebaran aspirasi dan saran secara lisan maupun berupa link atau QR code dan juga melakukan pengecekan secara berkala terhadap aspirasi dan saran yang telah diberikan warga Sistem Informasi"
+                ]
+            }
+        }
+    ]
+}

@@ -40,9 +40,9 @@ const router = createRouter({
       component: () => import('../views/divisi/Inti.vue')
     },
     {
-      path: '/divisi/psdm',
-      name: 'psdm',
-      component: () => import('../views/divisi/Psdm.vue')
+      path: '/divisi/:divisi',
+      name: 'divisi',
+      component: () => import('../views/divisi/DivisiView.vue')
     },
     // blog
     {
@@ -50,6 +50,12 @@ const router = createRouter({
       name: 'blog',
       component: () => import('../views/Blog.vue')
     },
+    // not found
+    {
+      path: '/:pathMatch(.*)*',
+      name: 'NotFound',
+      component: () => import('../views/404.vue')
+    }
   ]
 })
 

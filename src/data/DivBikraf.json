@@ -1,0 +1,85 @@
+{
+    "nama_lengkap" : "Bisnis Kreatif",
+    "slug" : "bikraf",
+    "ket_divisi" : "Merupakan sebuah divisi pemberdayaan kewirausahaan di kalangan keluarga Sistem Informasi untuk mengembangkan minat dan bakat mahasiswa dibidang kewirausahaan dengan mengedepankan segala aspek pertumbuhan perekonomian dalam bisnis kreatif melalui potensi ide dan sumber daya manusianya",
+    "visi" : "Menjadikan mahasiswa Sistem Informasi yang kreatif, inovatif, serta memiliki bekal kemampuan manajerial dalam bidang bisnis kreatif agar dapat menjadi penggerak dalam pertumbuhan perekonomian dan peningkatan kualitas hidup",
+    "misi" : [
+        "Menjalankan bisnis untuk menunjang pendanaan kegiatan HMSI",
+        "Memberikan wadah untuk mengembangkan ide bisnis dan bisnis kreatif yang berjalan antar mahasiswa Sistem Informasi",
+        "Berpartisipasi dalam berbagai kegiatan yang bertemakan bisnis dan kewirausahaan, untuk meningkatkan Bikraf yang lebih baik",
+        "Menjalin kerja sama antar divisi HMSI lainnya dalam menunjang kegiatan bisnis kreatif Membangun dan mengembangkan kerjasama dengan kemitraan terkait (partnership) yang saling menguntungkan"
+    ],
+    "staf_inti" : [
+        {
+            "jabatan" : "Ketua Divisi",
+            "slug": "kadiv",
+            "nama": "Syafira Putri Zahra"
+        },
+        {
+            "jabatan" : "Sekretaris",
+            "slug": "sekre",
+            "nama": "Darma Zidane Gusnambi"
+        },
+        {
+            "jabatan" : "Bendahara",
+            "slug": "bendahara",
+            "nama": "Yohanda"
+        }
+    ],
+    "nama_staf" : [
+        ["Ariq Abdurrahman Hakim"],
+        ["Fahri Andika Sanjaya"]
+    ],
+    "proker" : [
+        {
+            "heading_proker": "Gerai HMSI",
+            "isi_proker" : {
+                "latar_belakang" : "Tempat bagi mahasiswa Sistem Informasi untuk melakukan transaksi dan program kerja utama yang relevan dengan bikraf",
+                "bentuk_kegiatan" : [
+                    "Promosi dan penjualan produk berupa makanan dan minuman di gerai HMSI. Serta adanya promosi melalui media sosial",
+                    "Pengecekan stok produk setiap minggu dan pencatatan stok produk",
+                    "Catatan akumulasi penjualan, pengeluaran, untung, serta kerugian"
+                ]
+            }
+        },
+        {
+            "heading_proker": "Baju HMSI",
+            "isi_proker" : {
+                "latar_belakang" : "Diperlukannya baju HMSI sebagai identitas untuk mahasiswa Sistem Informasi",
+                "bentuk_kegiatan" : [
+                    "Pendataan mahasiswa Sistem Informasi angkatan 2022",
+                    "Penerimaan dan pencatatan pembayaran baju",
+                    "Pemesanan baju kepada vendor",
+                    "Pembagian baju kepada mahasiswa Sistem Informasi angkatan 2023"
+                ]
+            }
+        },
+        {
+            "heading_proker": "ID Card",
+            "isi_proker" : {
+                "latar_belakang" : "Diperlukannya id card sebagai tanda kepengurusan HMSI 2023",
+                "bentuk_kegiatan" : [
+                    "Menyediakan id card untuk kepengurusan HMSI 2023"
+                ]
+            }
+        },
+        {
+            "heading_proker": "Enterpreneur Learning",
+            "isi_proker" : {
+                "latar_belakang" : "Meningkatnya peluang menjadi seorang wirausahawan dan pebisnis untuk mahasiswa, sehingga dibutuhkan wadah pengenalan dan sharing mengenai dunia bisnis dan wirausaha",
+                "bentuk_kegiatan" : [
+                    "Mengadakan seminar dengan mengangkat tema yang berhubungan dengan kegiatan kewirausahaan"
+                ]
+            }
+        },
+        {
+            "heading_proker": "Merchandise",
+            "isi_proker" : {
+                "latar_belakang" : "Adanya keperluan untuk menambah pemasukan HMSI dan menghasilkan ikon HMSI berupa produk",
+                "bentuk_kegiatan" : [
+                    "Membuat merchandise untuk mahasiswa sistem informasi"
+                ]
+            }
+        }
+    ]
+}

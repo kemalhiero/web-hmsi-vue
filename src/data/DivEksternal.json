@@ -1,0 +1,70 @@
+{
+    "nama_lengkap" : "Eksternal",
+    "slug" : "eksternal",
+    "ket_divisi" : "Merupakan divisi yang bertanggung jawab dalam menjalin hubungan dan kerjasama dengan pihak eksternal, untuk mengenalkan himpunan ke luar melalui kegiatan-kegiatan yang berkaitan dengan akademik maupun non-akademik, serta meningkatkan peran aktif mahasiswa dalam berbagai kegiatan",
+    "visi" : "Menjadikan divisi Eksternal sebagai kekuatan HMSI dalam bidang hubungan kerja sama dengan pihak luar HMSI, dan juga menjadi pusat pelayanan komunikasi dan informasi publik yang terpercaya guna membangun citra positif, nama baik HMSI",
+    "misi" : [
+        "Menjalin silaturahmi dan kerja sama yang baik antar lembaga di lingkungan FTI",
+        "Memperkenalkan serta membuat hmsi dikenal baik di lingkungan kampus maupun masyarakat",
+        "Membangun komunikasi antara setiap elemen yang ada pada jurusan sistem informasi dengan sikap profesionalitas",
+        "Membangun eksternal HMSI yang kompeten dalam penyebarluasan informasi serta publikasi Jurusan Sistem Informasi"
+    ],
+    "staf_inti" : [
+        {
+            "jabatan" : "Ketua Divisi",
+            "slug": "kadiv",
+            "nama": "Zuha Bima Alfaruq"
+        },
+        {
+            "jabatan" : "Sekretaris-Bendahara",
+            "slug": "sekbend",
+            "nama": "Shefilla Raisya Razade Stevano"
+        }
+    ],
+    "nama_staf" : [
+        ["Hasya Zikra Alfrena"],
+        ["Amalia Sandi Alzahrah"],
+        ["Suci Rahmadhani"]
+    ],
+    "proker" : [
+        {
+            "heading_proker": "SI I'm coming",
+            "isi_proker" : {
+                "latar_belakang" : "Memperluas informasi mengenai perkuliahan termasuk Jurusan Sistem Informasi Universitas Andalas",
+                "bentuk_kegiatan" : [
+                    "Memberikan materi seputar organisasi dan kepemimpinan",
+                    "Memberikan materi seputar dunia kampus",
+                    "Memberikan  materi tentang perkuliahan di Sistem Informasi dan peluang kerja setelah menamatkan perkuliahan khususnya setelah tamat di jurusan Sistem Informasi"
+                ]
+            }
+        },
+        {
+            "heading_proker": "HMSI collab",
+            "isi_proker" : {
+                "latar_belakang" : "Perlu adanya kerja sama antara HMSI dengan  lembaga  yang ada di Universitas Andalas atau di luar Universitas Andalas",
+                "bentuk_kegiatan" : [
+                    "Sharing Informasi antara HMSI dan lembaga, terkait pengenalan Jurusan Sistem Informasi"
+                ]
+            }
+        },
+        {
+            "heading_proker": "HMSI Corner",
+            "isi_proker" : {
+                "latar_belakang" : "Diperlukannya informasi tentang beasiswa dan lomba untuk mahasiswa/i Sistem Informasi Universitas Andalas",
+                "bentuk_kegiatan" : [
+                    "Mem-posting setiap info tentang beasiswa dan lomba di media sosial seperti Instagram, group WA, dan membuat group di discord SI"
+                ]
+            }
+        },
+        {
+            "heading_proker": "HMSI peduli",
+            "isi_proker" : {
+                "latar_belakang" : "Banyaknya musibah yang terjadi di sekitar kita yang memerlukan bantuan berupa dana",
+                "bentuk_kegiatan" : [
+                    "Mengumpulkan dan mengelola donasi untuk korban bencana alam atau masyarakat yang membutuhkan",
+                    "Bakti Sosial ( Bulan Ramadhan )"
+                ]
+            }
+        }
+    ]
+}

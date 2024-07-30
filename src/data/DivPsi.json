@@ -1,0 +1,72 @@
+{
+    "nama_lengkap" : "PSI",
+    "slug" : "psi",
+    "ket_divisi" : "Divisi Pengembangan Skill dan Intelektual (PSI) merupakan divisi yang mewadahi mahasiswa Sistem Informasi dalam mengembangkan Skill dan cara berpikir sebagai seorang mahasiswa IT. Divisi ini berperan penting sebagai media mahasiswa Sistem Informasi untuk lebih mengenal perkembangan IT serta prospek kerja yang dibutuhkan dunia IT sekarang. Untuk itu divisi pengembangan skill dan intelektual membutuhkan anggota yang baik dan memiliki rasa tanggung jawab, serta dapat bekerja sama antar anggota divisi lainnya",
+    "visi" : "Mewadahi dan menarik minat mahasiswa Sistem Informasi dalam pengembangan skill dan cara berpikir di bidang IT",
+    "misi" : [
+        "Mewadahi  pengembangan minat dan bakat mahasiswa Sistem Informasi",
+        "Menjadi wadah sebagai tempat untuk sharing wawasan atau ilmu yang dimiliki antar Mahasiswa Sistem informasi",
+        "Meningkatkan softskill dan hardskill mahasiswa Sistem Informasi"
+    ],
+    "staf_inti" : [
+        {
+            "jabatan" : "Ketua Divisi",
+            "slug": "kadiv",
+            "nama": "Muhammad Yudhistira"
+        },
+        {
+            "jabatan" : "Sekretaris-Bendahara",
+            "slug": "sekbend",
+            "nama": "Karin Oktariani Effendi"
+        }
+    ],
+    "nama_staf" : [
+        ["Vallen Adithya Rekhsana"],
+        ["Kemal Muhammad Hiero"],
+        ["Fikran Shadiq Elfayit"]
+    ],
+    "proker" : [
+        {
+            "heading_proker": "Pemeliharaan dan Pengelolaan Sistem Informasi HMSI",
+            "isi_proker" : {
+                "latar_belakang" : "Karena dibutuhkan sebuah sistem informasi yang dapat mengelola informasi serta dapat diakses oleh HMSI",
+                "bentuk_kegiatan" : [
+                    "Mengelola Website HMSI",
+                    "Melakukan maintenance website HMSI"
+                ]
+            }
+        },
+        {
+            "heading_proker": "Exam Preparation (XAMPP)",
+            "isi_proker" : {
+                "latar_belakang" : "Karena padatnya kegiatan di kampus yang membuat mahasiswa kesusahan untuk belajar dalam menghadapi ujian maka dibutuhkan sebuah kegiatan yang dapat membantu mahasiswa sistem informasi dalam mempersiapkan dirinya untuk menghadapi pelaksanaan ujian(UTS/UAS)",
+                "bentuk_kegiatan" : [
+                    "Membuat google form untuk mewadahi daftar permintaan pelaksanaan XAMPP",
+                    "Mencari pemateri untuk berbagi dan sharing tentang mata kuliah tertentu",
+                    "Pelaksanaan XAMPP",
+                    "Memberikan Pembahasan Materi (Pembahasan Soal/Pembahasan Materi yang bersangkutan dengan materi ujian)"
+                ]
+            }
+        },
+        {
+            "heading_proker": "Pelatihan Teknologi Informasi",
+            "isi_proker" : {
+                "latar_belakang" : "Karena perkembangan teknologi yang cukup cepat serta semakin ketatnya persaingan dunia kerja di luar sana maka dibutuhkan sebuah kegiatan untuk dapat meningkatkan hardskill dari mahasiswa sistem informasi dalam menghadapi permintaan dunia kerja pada saat sekarang",
+                "bentuk_kegiatan" : [
+                    "Pelaksanaan pelatihan/ workshop teknologi informasi, missal : Desain UI,pelatihan/workshop pemrograman dan/atau tutor teman sebaya",
+                    "Mencari pemateri untuk kegiatan pelatihan/workshop TI",
+                    "Pelaksanaan Pelatihan/Workshop"
+                ]
+            }
+        },
+        {
+            "heading_proker": "Information System Celebration & Event",
+            "isi_proker" : {
+                "latar_belakang" : "ISCE merupakan agenda 2 tahun sekali dari HMSI. ISCE bertujuan untuk mengenalkan Departemen Sistem Informasi Universitas Andalas. ISCE dilaksanakan agar dapat menumbuhkan dan memacu daya saing dalam mengikuti lomba di bidang IT. Rangkaian acara yang diadakan yaitu berupa Hackathon, Bazzar, Seminar UI/UX, Seminar Kewirausahaan, dan Workshop",
+                "bentuk_kegiatan" : [
+                    "Perlombaan di bidang IT, Bazzar, dan Workshop/Seminar"
+                ]
+            }
+        }
+    ]
+}
