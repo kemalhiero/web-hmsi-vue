@@ -1,0 +1,84 @@
+{
+    "tahun": 2017,
+    "pengurus": {
+        "inti" : [
+            {
+                "jabatan" : "Ketua Umum",
+                "nama" : "Rafael Dinur"
+            },
+            {
+                "jabatan" : "Wakil Ketua Umum",
+                "nama" : "Ade Indra"
+            },
+            {
+                "jabatan" : "Sekretaris 1",
+                "nama" : "Nulfahmi Laura Widared"
+            },
+            {
+                "jabatan" : "Sekretaris 2",
+                "nama" : "Nazhifa Najla Ardian"
+            },
+            {
+                "jabatan" : "Bendahara 1",
+                "nama" : "Nilam Suri"
+            },
+            {
+                "jabatan" : "Bendahara 2",
+                "nama" : "Marchella Anrisya"
+            }
+        ],
+        "divisi": [
+            {
+                "nama": "Kemahasiswaan",
+                "kepala" : "Rafki Azim",
+                "anggota" : [
+                    "Aghill Tresna A",
+                    "Tari Vandira",
+                    "Vanesha Asyariza"
+                ]
+            },
+            {
+                "nama": "Hubungan Masyarakat",
+                "kepala" : "Galuh Permana",
+                "anggota" : [
+                    "Chairani Nushida",
+                    "Yolanda Parawita",
+                    "M. Imam Sutria",
+                    "Lucy Trilinda"
+                ]
+            },
+            {
+                "nama": "Rumah Tangga dan Kesekretariatan",
+                "kepala" : "Rahmat Sandhy",
+                "anggota" : [
+                    "Wardatul Alifah",
+                    "Wardatul Hanifah",
+                    "Ivan Rida Rivaldo"
+                ]
+            },
+            {
+                "nama": "IT",
+                "kepala" : "Iqbal Nawazaki",
+                "anggota" : [
+                    "Fitri Adeliani",
+                    "Tata Bayu Amarta",
+                    "Atika Hijriandini",
+                    "Ahmad Fauzan Hasbullah",
+                    "Afdhal Zikri"
+                ]
+            },
+            {
+                "nama": "Kewirausahaan",
+                "kepala" : "M. Rocky Kurniawan",
+                "anggota" : [
+                    "Monica Silvia",
+                    "Ferina Dwi Fitri",
+                    "Tri Agustian Ameldi",
+                    "Zera Olviana"
+                ]
+            }
+        ]
+
+    }
+    
+}

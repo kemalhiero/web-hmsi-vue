@@ -31,7 +31,7 @@ const router = createRouter({
     {
       path: '/tentang/alumni',
       name: 'alumni',
-      component: () => import('../views/tentang/Alumni.vue')
+      component: () => import('../views/tentang/AlumniView.vue')
     },
     // divisi
     {

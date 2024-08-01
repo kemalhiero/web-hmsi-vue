@@ -1,0 +1,91 @@
+{
+    "tahun": 2018,
+    "pengurus": {
+        "inti" : [
+            {
+                "jabatan" : "Ketua Umum",
+                "nama" : "Tata Bayu Amarta"
+            },
+            {
+                "jabatan" : "Wakil Ketua Umum",
+                "nama" : "Malik A. Aziz Lubis"
+            },
+            {
+                "jabatan" : "Sekretaris 1",
+                "nama" : "Chairani Nushida"
+            },
+            {
+                "jabatan" : "Sekretaris 2",
+                "nama" : "Annisa Aulia Khaira"
+            },
+            {
+                "jabatan" : "Bendahara 1",
+                "nama" : "Nilam Suri"
+            },
+            {
+                "jabatan" : "Bendahara 2",
+                "nama" : "Nor Adzillah Adya"
+            }
+        ],
+        "divisi": [
+            {
+                "nama": "Kemahasiswaan",
+                "kepala" : "M Imam Sutria",
+                "sekre" : "Vanesha Asyariza",
+                "anggota" : [
+                    "Tari Vandira",
+                    "M. Alhamid Afiza",
+                    "Dira Yosfiranda",
+                    "Fuad Ali Tanjung",
+                    "Ahmad Fadhil"
+                ]
+            },
+            {
+                "nama": "Hubungan Masyarakat",
+                "kepala" : "Ade Indra",
+                "sekre" : "Syifa Chairunnisa D. A",
+                "anggota" : [
+                    "Richel Yolanda",
+                    "Murdayani",
+                    "Dina Mardana Dulas",
+                    "Nina Mulyani",
+                    "Muhammad Febri Algani"
+                ]
+            },
+            {
+                "nama": "Rumah Tangga dan Kesekretariatan",
+                "kepala" : "Ahmad Fauzan Hasbullah",
+                "sekre" : "Marchella Anrisya",
+                "anggota" : [
+                    "Afri Radiatullah",
+                    "Syukri Rahmat Ilahi",
+                    "Yauma Amanda Saskia",
+                    "Isra Sagita Amelia",
+                    "Gilang Priyatna F"
+                ]
+            },
+            {
+                "nama": "Keprofesian dan IT",
+                "kepala" : "Wahyu Ade Pratama",
+                "sekre" : "Yolanda Parawita",
+                "anggota" : [
+                    "Jesi Namora",
+                    "M. Yoga Affela Putra",
+                    "Wahyu Agreta Perdana",
+                    "Aulia Anshari Fathurrahman"
+                ]
+            },
+            {
+                "nama": "Kewirausahaan",
+                "kepala" : "Ferina Dwi Fitri",
+                "sekre" : "Anggun Mardiasni",
+                "anggota" : [
+                    "Astri",
+                    "Anggit Marcellino",
+                    "Anggrila Yusandra",
+                    "Fajar Wirya Putra"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "tahun": 2019,
+    "pengurus": {
+        "inti" : [
+            {
+                "jabatan" : "Ketua Umum",
+                "nama" : "Gilang Priyatna Ferdana"
+            },
+            {
+                "jabatan" : "Wakil Ketua Umum",
+                "nama" : "Muhammad Hamdi"
+            },
+            {
+                "jabatan" : "Sekretaris 1",
+                "nama" : "Annisa Aulia Khaira"
+            },
+            {
+                "jabatan" : "Sekretaris 2",
+                "nama" : "Rahmania Jasmin"
+            },
+            {
+                "jabatan" : "Bendahara 1",
+                "nama" : "Nor Adzillah Adya"
+            },
+            {
+                "jabatan" : "Bendahara 2",
+                "nama" : "Athifah Zahra"
+            }
+        ],
+        "divisi": [
+            {
+                "nama": "Kemahasiswaan",
+                "kepala" : "Dira Yosfiranda",
+                "sekre" : "Nina Mulyani",
+                "anggota" : [
+                    "Reinaldo Shandev Pratama",
+                    "Wahyudhika Chandra Permana",
+                    "Ananda Mardhatillah"
+                ]
+            },
+            {
+                "nama": "Hubungan Masyarakat",
+                "kepala" : "Ahmad Fadhil",
+                "sekre" : "Yauma Amanda Saskia",
+                "anggota" : [
+                    "Anggrila Yusandra",
+                    "Fajar Wirya Putra",
+                    "Erick Okta Wirdana",
+                    "Ronny Kurniawan"
+                ]
+            },
+            {
+                "nama": "Rumah Tangga dan Kesekretariatan",
+                "kepala" : "Syukri Rahmat Ilahi",
+                "sekre" : "Isra Sagita",
+                "anggota" : [
+                    "Nova Noviana",
+                    "Prima Prasetyo",
+                    "Isa Dewi Sartika"
+                ]
+            },
+            {
+                "nama": "Keprofesian dan IT",
+                "kepala" : "Aulia Anshari Fathurrahman",
+                "sekre" : "Randa Julio Meza",
+                "anggota" : [
+                    "Affan Hanafiah",
+                    "Afif Maulana Isman",
+                    "Fikri Rizaldi"
+                ]
+            },
+            {
+                "nama": "Kewirausahaan",
+                "kepala" : "Astri",
+                "sekre" : "Dina Mardana Dulas",
+                "anggota" : [
+                    "Nurul Inaya",
+                    "Shinta Melany Anwar",
+                    "Yulia Agustin",
+                    "Wahyu Febrian Pratama Bayu Khan"
+                ]
+            }
+        ]
+    }
+}

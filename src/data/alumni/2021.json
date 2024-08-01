@@ -1,0 +1,105 @@
+{
+    "tahun": 2021,
+    "pengurus": {
+        "inti" : [
+            {
+                "jabatan" : "Ketua Umum",
+                "nama" : "M Harley Adinama"
+            },
+            {
+                "jabatan" : "Wakil Ketua Umum",
+                "nama" : "M Rafvy Octa Nugraha"
+            },
+            {
+                "jabatan" : "Sekretaris Umum",
+                "nama" : "Mayang Sari Deyuvi"
+            },
+            {
+                "jabatan" : "Bendahara Umum",
+                "nama" : "Distifia Oktari"
+            }
+        ],
+        "divisi": [
+            {
+                "nama": "Kemahasiswaan",
+                "kepala" : "Ghanni Arrasyid",
+                "sekre" : "Difah Alferina Putri",
+                "bendahara" : "Lathifa Hardi",
+                "anggota" : [
+                    "Muhammad Al-Hafiz",
+                    "Anggi Julieta",
+                    "Nesvi Ramahdani",
+                    "M Kevin Beslia",
+                    "Novya Lira Natasya",
+                    "Ahmad Fauzan A.",
+                    "Shandyka Tribuana P.",
+                    "Hasya Rona Amirahmi",
+                    "Muhammad Farhan Zuhdi",
+                    "Afdal Halim Amda",
+                    "Amanda Noverdina P."
+                ]
+            },
+            {
+                "nama": "Hubungan Masyarakat",
+                "kepala" : "Muhammad Rafi",
+                "sekre" : "Dhinda Amalia Kiflia",
+                "bendahara" : "Fadhilla Islamita Putri",
+                "anggota" : [
+                    "Lisca Angriani",
+                    "Rafiqah",
+                    "Siti Nina Azwalia Tanjung",
+                    "Annisha Aprillya",
+                    "Dania Clarasinta",
+                    "Sabrina Pratama Putri",
+                    "Rivonny Wulandary",
+                    "Anissa Atifa",
+                    "M. Hadi Zahfran H.",
+                    "Rivaldo Agusti"
+                ]
+            },
+            {
+                "nama": "Rumah Tangga dan Kesekretariatan",
+                "kepala" : "Lathifatuzikra Suhairi",
+                "sekre" : "Miftah Musaumi Adi",
+                "bendahara" : "Dewi Kartika",
+                "anggota" : [
+                    "Nadhila Fariza",
+                    "Novel Valentino",
+                    "Luzya Rahmadilla",
+                    "Arif Roska Perdana",
+                    "Annisa Putri",
+                    "Elfijario Direndo Qalbi"
+                ]
+            },
+            {
+                "nama": "Keprofesian dan IT",
+                "kepala" : "Ahmad Fauzan",
+                "sekre" : "Ginda Teguh Imani",
+                "bendahara" : "Tasya Ade Karmila",
+                "anggota" : [
+                    "Septian Cahaya Purnama",
+                    "Annisa Suprima",
+                    "Camila Faiza",
+                    "Lukman Juned Dharma",
+                    "Untung Jamari",
+                    "Rahmat Hanafi",
+                    "M. Agung Mahardhika"
+                ]
+            },
+            {
+                "nama": "Kewirausahaan",
+                "kepala" : "Hayatul Annisa Basyiroh",
+                "sekre" : "Nurul Hafizah Alza",
+                "bendahara" : "Puty Salima",
+                "anggota" : [
+                    "Febby Putri Milenia Piter",
+                    "Irfan Rahmat Ramadhan",
+                    "Jesica Resi Livera",
+                    "Laila Rahmatul Aufa Welza P.",
+                    "Fathia Rahma Nazhifa",
+                    "Immalatunil Khaira Affi"
+                ]
+            }
+        ]
+    }
+}

@@ -26,14 +26,14 @@
                 <p><b> Bendahara Divisi</b>   : Distifia Oktari</p>
                 <p><b> Anggota</b> : </p>
                 <ul>
-                <li>Siti Nina Azwalia Tanjung</li>
-                <li>Fauzan Maizardi</li>
-                <li>Fathia Rahma Nazhifa</li>
-                <li>Rafiqah</li>
-                <li>Muhammad Rayhan Rizaldi</li>
-                <li>Lara Busyanil</li>
-                <br class="hidden sm:inline">
-                <br class="hidden sm:inline">
+                    <li>Siti Nina Azwalia Tanjung</li>
+                    <li>Fauzan Maizardi</li>
+                    <li>Fathia Rahma Nazhifa</li>
+                    <li>Rafiqah</li>
+                    <li>Muhammad Rayhan Rizaldi</li>
+                    <li>Lara Busyanil</li>
+                    <br class="hidden sm:inline">
+                    <br class="hidden sm:inline">
                 </ul>
             </div>
             </div>
@@ -45,13 +45,13 @@
                 <p><b> Bendahara Divisi</b>   : Rahmadina</p>
                 <p><b> Anggota</b> : </p>
                 <ul>
-                <li>Ginda Teguh Imani</li>
-                <li>Nada Safarina</li>
-                <li>Kemal Muhammad Hiero</li>
-                <li>Hagi Siraj Sumanta</li>
-                <li>Alif Abdul Rauf</li>
-                <br class="hidden sm:inline">
-                <br class="hidden sm:inline">
+                    <li>Ginda Teguh Imani</li>
+                    <li>Nada Safarina</li>
+                    <li>Kemal Muhammad Hiero</li>
+                    <li>Hagi Siraj Sumanta</li>
+                    <li>Alif Abdul Rauf</li>
+                    <br class="hidden sm:inline">
+                    <br class="hidden sm:inline">
                 </ul>
             </div>
             </div> 
@@ -63,14 +63,14 @@
                 <p><b> Bendahara Divisi</b>   : Winanda A. Harisya</p>
                 <p><b> Anggota</b> : </p>
                 <ul>
-                <li>Boby Darmawan</li>
-                <li>Muhammad Farhan. A</li>
-                <li>Doni Hamdani</li>
-                <li>Muhammad Idris</li>
-                <li>Vallen Adithya Rekhsana</li>
-                <li>Muhammad Zaim Milzam</li>
-                <li>Muhammad Yudhistira</li>
-                <li>Siti Nur Aisah</li>
+                    <li>Boby Darmawan</li>
+                    <li>Muhammad Farhan. A</li>
+                    <li>Doni Hamdani</li>
+                    <li>Muhammad Idris</li>
+                    <li>Vallen Adithya Rekhsana</li>
+                    <li>Muhammad Zaim Milzam</li>
+                    <li>Muhammad Yudhistira</li>
+                    <li>Siti Nur Aisah</li>
                 </ul>
             </div>
             </div>
@@ -83,11 +83,11 @@
                 <p><b> Bendahara Divisi</b>   : Sri Ulfa Berliani</p>
                 <p><b> Anggota</b> : </p>
                 <ul>
-                <li>Dean Fisabil Andwi</li>
-                <li>Radithya Romero Al Giffary</li>
-                <li>Nadilla Saraswati</li>
-                <li>Faradila Suwandi</li>
-                <br class="hidden sm:inline">
+                    <li>Dean Fisabil Andwi</li>
+                    <li>Radithya Romero Al Giffary</li>
+                    <li>Nadilla Saraswati</li>
+                    <li>Faradila Suwandi</li>
+                    <br class="hidden sm:inline">
                 </ul>
             </div>
             </div>
@@ -99,12 +99,12 @@
                 <p><b> Bendahara Divisi</b>   : Delicia Syifa Maghfira</p>
                 <p><b> Anggota</b> : </p>
                 <ul>
-                <li>Shefilla Raisya Razade Stevano</li>
-                <li>Zuha Bima Alfaruq</li>
-                <li>Thomas Akram Ferdinan</li>
-                <li>Muhammad Erlangga Adi Nugraha</li>
-                <li>Faiz Abdullah</li>
-                <br class="hidden sm:inline">
+                    <li>Shefilla Raisya Razade Stevano</li>
+                    <li>Zuha Bima Alfaruq</li>
+                    <li>Thomas Akram Ferdinan</li>
+                    <li>Muhammad Erlangga Adi Nugraha</li>
+                    <li>Faiz Abdullah</li>
+                    <br class="hidden sm:inline">
                 </ul>
             </div>
             </div> 
@@ -116,12 +116,12 @@
                 <p><b> Bendahara Divisi</b>   : Ruth Emeralda Raihan</p>
                 <p><b> Anggota</b> : </p>
                 <ul>
-                <li>Muhammad Al Hafiz</li>
-                <li>Gita Putri</li>
-                <li>Tri Ayunia Patma Lubis</li>
-                <li>Baitul Azizah</li>
-                <li>Taufik Hidayat</li>
-                <br class="hidden sm:inline">
+                    <li>Muhammad Al Hafiz</li>
+                    <li>Gita Putri</li>
+                    <li>Tri Ayunia Patma Lubis</li>
+                    <li>Baitul Azizah</li>
+                    <li>Taufik Hidayat</li>
+                    <br class="hidden sm:inline">
                 </ul>
             </div>
             </div>
@@ -154,17 +154,17 @@
                 <p><b> Bendahara Divisi</b>   : Lathifa Hardi</p>
                 <p><b> Anggota</b> : </p>
                 <ul>
-                <li>Muhammad Al-Hafiz</li>
-                <li>Anggi Julieta</li>
-                <li>Nesvi Ramahdani</li>
-                <li>M Kevin Beslia</li>
-                <li>Novya Lira Natasya</li>
-                <li>Ahmad Fauzan A.</li>
-                <li>Shandyka Tribuana P.</li>
-                <li>Hasya Rona Amirahmi</li>
-                <li>Muhammad Farhan Zuhdi</li>
-                <li>Afdal Halim Amda</li>
-                <li>Amanda Noverdina P.</li>
+                    <li>Muhammad Al-Hafiz</li>
+                    <li>Anggi Julieta</li>
+                    <li>Nesvi Ramahdani</li>
+                    <li>M Kevin Beslia</li>
+                    <li>Novya Lira Natasya</li>
+                    <li>Ahmad Fauzan A.</li>
+                    <li>Shandyka Tribuana P.</li>
+                    <li>Hasya Rona Amirahmi</li>
+                    <li>Muhammad Farhan Zuhdi</li>
+                    <li>Afdal Halim Amda</li>
+                    <li>Amanda Noverdina P.</li>
                 </ul>
             </div>
             </div> 
@@ -176,17 +176,17 @@
                 <p><b> Bendahara Divisi</b>   : Fadhilla Islamita Putri</p>
                 <p><b> Anggota</b> : </p>
                 <ul>
-                <li>Lisca Angriani</li>
-                <li>Rafiqah</li>
-                <li>Siti Nina Azwalia Tanjung</li>
-                <li>Annisha Aprillya</li>
-                <li>Dania Clarasinta</li>
-                <li>Sabrina Pratama Putri</li>
-                <li>Rivonny Wulandary</li>
-                <li>Anissa Atifa</li>
-                <li>M. Hadi Zahfran H.</li>
-                <li>Rivaldo Agusti</li>
-                <br class="hidden sm:inline">
+                    <li>Lisca Angriani</li>
+                    <li>Rafiqah</li>
+                    <li>Siti Nina Azwalia Tanjung</li>
+                    <li>Annisha Aprillya</li>
+                    <li>Dania Clarasinta</li>
+                    <li>Sabrina Pratama Putri</li>
+                    <li>Rivonny Wulandary</li>
+                    <li>Anissa Atifa</li>
+                    <li>M. Hadi Zahfran H.</li>
+                    <li>Rivaldo Agusti</li>
+                    <br class="hidden sm:inline">
                 </ul>
             </div>
             </div> 
@@ -199,12 +199,12 @@
                 <p><b> Bendahara Divisi</b>   : Dewi Kartika</p>
                 <p><b> Anggota</b> : </p>
                 <ul>
-                <li>Nadhila Fariza</li>
-                <li>Novel Valentino</li>
-                <li>Luzya Rahmadilla</li>
-                <li>Arif Roska Perdana</li>
-                <li>Annisa Putri</li>
-                <li>Elfijario Direndo Qalbi</li>
+                    <li>Nadhila Fariza</li>
+                    <li>Novel Valentino</li>
+                    <li>Luzya Rahmadilla</li>
+                    <li>Arif Roska Perdana</li>
+                    <li>Annisa Putri</li>
+                    <li>Elfijario Direndo Qalbi</li>
                 </ul>
             </div>
             </div> 
@@ -216,13 +216,13 @@
                 <p><b> Bendahara Divisi</b>   : Tasya Ade Karmila</p>
                 <p><b> Anggota</b> : </p>
                 <ul>
-                <li>Septian Cahaya Purnama</li>
-                <li>Annisa Suprima</li>
-                <li>Camila Faiza</li>
-                <li>Lukman Juned Dharma</li>
-                <li>Untung Jamari</li>
-                <li>Rahmat Hanafi</li>
-                <li>M. Agung Mahardhika</li>
+                    <li>Septian Cahaya Purnama</li>
+                    <li>Annisa Suprima</li>
+                    <li>Camila Faiza</li>
+                    <li>Lukman Juned Dharma</li>
+                    <li>Untung Jamari</li>
+                    <li>Rahmat Hanafi</li>
+                    <li>M. Agung Mahardhika</li>
                 </ul>
             </div>
             </div> 
@@ -234,13 +234,13 @@
                 <p><b> Bendahara Divisi</b>   : Puty Salima</p>
                 <p><b> Anggota</b> : </p>
                 <ul>
-                <li>Febby Putri Milenia Piter</li>
-                <li>Irfan Rahmat Ramadhan</li>
-                <li>Jesica Resi Livera</li>
-                <li>Laila Rahmatul Aufa Welza P.</li>
-                <li>Fathia Rahma Nazhifa</li>
-                <li>Immalatunil Khaira Affi</li>
-                <br class="hidden sm:inline">
+                    <li>Febby Putri Milenia Piter</li>
+                    <li>Irfan Rahmat Ramadhan</li>
+                    <li>Jesica Resi Livera</li>
+                    <li>Laila Rahmatul Aufa Welza P.</li>
+                    <li>Fathia Rahma Nazhifa</li>
+                    <li>Immalatunil Khaira Affi</li>
+                    <br class="hidden sm:inline">
                 </ul>
             </div>
             </div>   
@@ -271,9 +271,9 @@
                 <p><b> Sekretaris Divisi</b>  : Ovy Nanda Putri</p>
                 <p><b> Anggota</b> : </p>
                 <ul>
-                <li>Muhammad Hasbillah</li>
-                <li>Wahyudhika Chandra Permana</li>
-                <li>Sitti Mutiah</li>
+                    <li>Muhammad Hasbillah</li>
+                    <li>Wahyudhika Chandra Permana</li>
+                    <li>Sitti Mutiah</li>
                 </ul>
             </div>
             </div> 
@@ -284,9 +284,9 @@
                 <p><b> Sekretaris Divisi</b>  : Anisa Wistia Rizalmi</p>
                 <p><b> Anggota</b> : </p>
                 <ul>
-                <li>Fikri Rizaldi</li>
-                <li>Nadya Aulia Putri</li>
-                <li>Yunita Era Refsi</li>
+                    <li>Fikri Rizaldi</li>
+                    <li>Nadya Aulia Putri</li>
+                    <li>Yunita Era Refsi</li>
                 
                 </ul>
             </div>
@@ -299,9 +299,9 @@
                 <p><b> Sekretaris Divisi</b>  : Nova Noviana</p>
                 <p><b> Anggota</b> : </p>
                 <ul>
-                <li>Fhizra Puti Khairani</li>
-                <li>Ilham Akbar</li>
-                <li>Isa Dewi Sartika</li>
+                    <li>Fhizra Puti Khairani</li>
+                    <li>Ilham Akbar</li>
+                    <li>Isa Dewi Sartika</li>
                 </ul>
             </div>
             </div> 
@@ -312,10 +312,10 @@
                 <p><b> Sekretaris Divisi</b>  : Feny Mametri</p>
                 <p><b> Anggota</b> : </p>
                 <ul>
-                <li>Alfarizi</li>
-                <li>Marwan Aziz</li>
-                <li>Vira Prahmadita</li>
-                <br class="hidden sm:inline">
+                    <li>Alfarizi</li>
+                    <li>Marwan Aziz</li>
+                    <li>Vira Prahmadita</li>
+                    <br class="hidden sm:inline">
                 </ul>
             </div>
             </div> 
@@ -326,10 +326,10 @@
                 <p><b> Sekretaris Divisi</b>  : Yulia Agustin</p>
                 <p><b> Anggota</b> : </p>
                 <ul>
-                <li>Annisa Miftahurrahmi</li>
-                <li>Haris Ihsan Arfi</li>
-                <li>Wahyu Febrian Pratama Bayu Khan</li>
-                <li>Yolanda Apricilia</li>
+                    <li>Annisa Miftahurrahmi</li>
+                    <li>Haris Ihsan Arfi</li>
+                    <li>Wahyu Febrian Pratama Bayu Khan</li>
+                    <li>Yolanda Apricilia</li>
                 </ul>
             </div>
             </div>   
@@ -362,9 +362,10 @@
                 <p><b> Sekretaris Divisi</b>  : Nina Mulyani</p>
                 <p><b> Anggota</b> : </p>
                 <ul>
-                <li>Reinaldo Shandev Pratama</li>
-                <li>Wahyudhika Chandra Permana</li>
-                <li>Ananda Mardhatillah</li><br class="hidden sm:inline">
+                    <li>Reinaldo Shandev Pratama</li>
+                    <li>Wahyudhika Chandra Permana</li>
+                    <li>Ananda Mardhatillah</li>
+                    <br class="hidden sm:inline">
                 </ul>
             </div>
             </div> 
@@ -375,10 +376,10 @@
                 <p><b> Sekretaris Divisi</b>  : Yauma Amanda Saskia</p>
                 <p><b> Anggota</b> : </p>
                 <ul>
-                <li>Anggrila Yusandra</li>
-                <li>Fajar Wirya Putra</li>
-                <li>Erick Okta Wirdana</li>
-                <li>Ronny Kurniawan</li>                      
+                    <li>Anggrila Yusandra</li>
+                    <li>Fajar Wirya Putra</li>
+                    <li>Erick Okta Wirdana</li>
+                    <li>Ronny Kurniawan</li>                      
                 </ul>
             </div>
             </div> 
@@ -390,9 +391,9 @@
                 <p><b> Sekretaris Divisi</b>  : Isra Sagita</p>
                 <p><b> Anggota</b> : </p>
                 <ul>
-                <li>Nova Noviana</li>
-                <li>Prima Prasetyo</li>
-                <li>Isa Dewi Sartika</li>
+                    <li>Nova Noviana</li>
+                    <li>Prima Prasetyo</li>
+                    <li>Isa Dewi Sartika</li>
                 </ul>
             </div>
             </div> 
@@ -403,10 +404,10 @@
                 <p><b> Sekretaris Divisi</b>  : Randa Julio Meza</p>
                 <p><b> Anggota</b> : </p>
                 <ul>
-                <li>Affan Hanafiah</li>
-                <li>Afif Maulana Isman </li>
-                <li>Fikri Rizaldi</li>
-                <br class="hidden sm:inline">
+                    <li>Affan Hanafiah</li>
+                    <li>Afif Maulana Isman </li>
+                    <li>Fikri Rizaldi</li>
+                    <br class="hidden sm:inline">
                 </ul>
             </div>
             </div> 
@@ -417,10 +418,10 @@
                 <p><b> Sekretaris Divisi</b>  : Dina Mardana Dulas</p>
                 <p><b> Anggota</b> : </p>
                 <ul>
-                <li>Nurul Inaya</li>
-                <li>Shinta Melany Anwar</li>
-                <li>Yulia Agustin</li>
-                <li>Wahyu Febrian Pratama Bayu Khan</li>
+                    <li>Nurul Inaya</li>
+                    <li>Shinta Melany Anwar</li>
+                    <li>Yulia Agustin</li>
+                    <li>Wahyu Febrian Pratama Bayu Khan</li>
                 </ul>
             </div>
             </div>   
@@ -453,11 +454,11 @@
                 <p><b> Sekretaris Divisi</b>  : Vanesha Asyariza</p>
                 <p><b> Anggota</b> : </p>
                 <ul>
-                <li>Tari Vandira</li>
-                <li>M. Alhamid Afiza</li>
-                <li>Dira Yosfiranda</li>
-                <li>Fuad Ali Tanjung</li>
-                <li>Ahmad Fadhil</li>
+                    <li>Tari Vandira</li>
+                    <li>M. Alhamid Afiza</li>
+                    <li>Dira Yosfiranda</li>
+                    <li>Fuad Ali Tanjung</li>
+                    <li>Ahmad Fadhil</li>
                 </ul>
             </div>
             </div> 
@@ -468,11 +469,11 @@
                 <p><b> Sekretaris Divisi</b>  : Syifa Chairunnisa D. A</p>
                 <p><b> Anggota</b> : </p>
                 <ul>
-                <li>Richel Yolanda</li>
-                <li>Murdayani</li>
-                <li>Dina Mardana Dulas</li>
-                <li>Nina Mulyani</li>                      
-                <li>Muhammad Febri Algani</li>                      
+                    <li>Richel Yolanda</li>
+                    <li>Murdayani</li>
+                    <li>Dina Mardana Dulas</li>
+                    <li>Nina Mulyani</li>                      
+                    <li>Muhammad Febri Algani</li>                      
                 </ul>
             </div>
             </div> 
@@ -484,11 +485,11 @@
                 <p><b> Sekretaris Divisi</b>  : Marchella Anrisya</p>
                 <p><b> Anggota</b> : </p>
                 <ul>
-                <li>Afri Radiatullah</li>
-                <li>Syukri Rahmat Ilahi</li>
-                <li>Yauma Amanda Saskia</li>
-                <li>Isra Sagita Amelia</li>
-                <li>Gilang Priyatna F</li>
+                    <li>Afri Radiatullah</li>
+                    <li>Syukri Rahmat Ilahi</li>
+                    <li>Yauma Amanda Saskia</li>
+                    <li>Isra Sagita Amelia</li>
+                    <li>Gilang Priyatna F</li>
                 </ul>
             </div>
             </div> 
@@ -500,11 +501,11 @@
                 <p><b> Anggota</b> : </p>
                 <ul>
                 <li>Jesi Namora</li>
-                <li>M. Yoga Affela Putra</li>
-                <li>Wahyu Agreta Perdana</li>
-                <li>Aulia Anshari Fathurrahman</li>
-                <br class="hidden sm:inline">
-                <br class="hidden sm:inline">
+                    <li>M. Yoga Affela Putra</li>
+                    <li>Wahyu Agreta Perdana</li>
+                    <li>Aulia Anshari Fathurrahman</li>
+                    <br class="hidden sm:inline">
+                    <br class="hidden sm:inline">
                 </ul>
             </div>
             </div> 
@@ -516,11 +517,11 @@
                 <p><b> Anggota</b> : </p>
                 <ul>
                 <li>Astri</li>
-                <li>Anggit Marcellino</li>
-                <li>Anggrila Yusandra</li>
-                <li>Fajar Wirya Putra</li>
-                <br class="hidden sm:inline">
-                <br class="hidden sm:inline">
+                    <li>Anggit Marcellino</li>
+                    <li>Anggrila Yusandra</li>
+                    <li>Fajar Wirya Putra</li>
+                    <br class="hidden sm:inline">
+                    <br class="hidden sm:inline">
                 </ul>
             </div>
             </div>   
@@ -552,10 +553,10 @@
                 <p><b> Kepala Divisi</b>      : Rafki Azim</p>
                 <p><b> Anggota</b> : </p>
                 <ul>
-                <li>Aghill Tresna A</li>
-                <li>Tari Vandira</li>
-                <li>Vanesha Asyariza</li>
-                <br class="hidden sm:inline">
+                    <li>Aghill Tresna A</li>
+                    <li>Tari Vandira</li>
+                    <li>Vanesha Asyariza</li>
+                    <br class="hidden sm:inline">
                 </ul>
             </div>
             </div> 
@@ -565,10 +566,10 @@
                 <p><b> Kepala Divisi</b>      : Galuh Permana</p>
                 <p><b> Anggota</b> : </p>
                 <ul>
-                <li>Chairani Nushida</li>
-                <li>Yolanda Parawita</li>
-                <li>M. Imam Sutria</li>
-                <li>Lucy Trilinda</li>                     
+                    <li>Chairani Nushida</li>
+                    <li>Yolanda Parawita</li>
+                    <li>M. Imam Sutria</li>
+                    <li>Lucy Trilinda</li>                     
                 </ul>
             </div>
             </div> 
@@ -579,10 +580,10 @@
                 <p><b> Kepala Divisi</b>      : Rahmat Sandhy</p>
                 <p><b> Anggota</b> : </p>
                 <ul>
-                <li>Wardatul Alifah</li>
-                <li>Wardatul Hanifah</li>
-                <li>Ivan Rida Rivaldo</li>
-                <br class="hidden sm:inline">
+                    <li>Wardatul Alifah</li>
+                    <li>Wardatul Hanifah</li>
+                    <li>Ivan Rida Rivaldo</li>
+                    <br class="hidden sm:inline">
                 </ul>
             </div>
             </div> 
@@ -592,11 +593,11 @@
                 <p><b> Kepala Divisi</b>      : Iqbal Nawazaki</p>
                 <p><b> Anggota</b> : </p>
                 <ul>
-                <li>Fitri Adeliani</li>
-                <li>Tata Bayu Amarta</li>
-                <li>Atika Hijriandini</li>
-                <li>Ahmad Fauzan Hasbullah</li>
-                <li>Afdhal Zikri</li>
+                    <li>Fitri Adeliani</li>
+                    <li>Tata Bayu Amarta</li>
+                    <li>Atika Hijriandini</li>
+                    <li>Ahmad Fauzan Hasbullah</li>
+                    <li>Afdhal Zikri</li>
                 </ul>
             </div>
             </div> 
@@ -606,11 +607,11 @@
                 <p><b> Kepala Divisi</b>      : M. Rocky Kurniawan</p>
                 <p><b> Anggota</b> : </p>
                 <ul>
-                <li>Monica Silvia</li>
-                <li>Ferina Dwi Fitri</li>
-                <li>Tri Agustian Ameldi</li>
-                <li>Zera Olviana</li>
-                <br class="hidden sm:inline">
+                    <li>Monica Silvia</li>
+                    <li>Ferina Dwi Fitri</li>
+                    <li>Tri Agustian Ameldi</li>
+                    <li>Zera Olviana</li>
+                    <br class="hidden sm:inline">
                 </ul>
             </div>
             </div>   

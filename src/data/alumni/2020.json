@@ -1,0 +1,76 @@
+{
+    "tahun": 2020,
+    "pengurus": {
+        "inti" : [
+            {
+                "jabatan" : "Ketua Umum",
+                "nama" : "Ronny Kurniawan"
+            },
+            {
+                "jabatan" : "Wakil Ketua Umum",
+                "nama" : "Dio Harvandy"
+            },
+            {
+                "jabatan" : "Sekretaris Umum",
+                "nama" : "Rahmania Jasmin"
+            },
+            {
+                "jabatan" : "Bendahara Umum",
+                "nama" : "Athifah Zahra"
+            }
+        ],
+        "divisi": [
+            {
+                "nama": "Kemahasiswaan",
+                "kepala" : "Muhammad Albi Isra",
+                "sekre" : "Ovy Nanda Putri",
+                "anggota" : [
+                    "Muhammad Hasbillah",
+                    "Wahyudhika Chandra Permana",
+                    "Sitti Mutiah"
+                ]
+            },
+            {
+                "nama": "Hubungan Masyarakat",
+                "kepala" : "Erick Okta Wirdana",
+                "sekre" : "Anisa Wistia Rizalmi",
+                "anggota" : [
+                    "Fikri Rizaldi",
+                    "Nadya Aulia Putri",
+                    "Yunita Era Refsi"
+                ]
+            },
+            {
+                "nama": "Rumah Tangga dan Kesekretariatan",
+                "kepala" : "Prima Prasetyo",
+                "sekre" : "Nova Noviana",
+                "anggota" : [
+                    "Fhizra Puti Khairani",
+                    "Ilham Akbar",
+                    "Isa Dewi Sartika"
+                ]
+            },
+            {
+                "nama": "Keprofesian dan IT",
+                "kepala" : "Vicky Ariga Elsayrafl",
+                "sekre" : "Feny Mametri",
+                "anggota" : [
+                    "Alfarizi",
+                    "Marwan Aziz",
+                    "Vira Prahmadita"
+                ]
+            },
+            {
+                "nama": "Kewirausahaan",
+                "kepala" : "",
+                "sekre" : "",
+                "anggota" : [
+                    "Annisa Miftahurrahmi",
+                    "Haris Ihsan Arfi",
+                    "Wahyu Febrian Pratama Bayu Khan",
+                    "Yolanda Apricilia"
+                ]
+            }
+        ]
+    }
+}

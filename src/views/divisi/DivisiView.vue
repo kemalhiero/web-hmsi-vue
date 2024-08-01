@@ -10,13 +10,13 @@
 
     // Peta nama divisi ke file JSON yang sesuai
     const divisiData = {
-        bikraf: () => import('../../data/DivBikraf.json'),
-        eksternal: () => import('../../data/DivEksternal.json'),
-        internal: () => import('../../data/DivInternal.json'),
-        medkraf: () => import('../../data/DivMedkraf.json'),
-        psdm: () => import('../../data/DivPsdm.json'),
-        psi: () => import('../../data/DivPsi.json'),
-        rtk: () => import('../../data/DivRtk.json'),
+        bikraf: () => import('../../data/divisi/DivBikraf.json'),
+        eksternal: () => import('../../data/divisi/DivEksternal.json'),
+        internal: () => import('../../data/divisi/DivInternal.json'),
+        medkraf: () => import('../../data/divisi/DivMedkraf.json'),
+        psdm: () => import('../../data/divisi/DivPsdm.json'),
+        psi: () => import('../../data/divisi/DivPsi.json'),
+        rtk: () => import('../../data/divisi/DivRtk.json'),
         // tambahkan divisi lain di sini
     };
 
@@ -24,7 +24,7 @@
     try {
         if (divisiData[divisi]) {
             const jsonData = await divisiData[divisi]();
-            data.value = jsonData.default; // JSON data is under `default` property
+            data.value = readonly(jsonData.default); // JSON data is under `default` property
         } else {
         throw new Error(`Data for divisi ${divisi} not found`);
         }

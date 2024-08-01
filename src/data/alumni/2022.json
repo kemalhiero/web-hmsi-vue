@@ -1,0 +1,106 @@
+{
+    "tahun": 2022,
+    "pengurus": {
+        "inti" : [
+            {
+                "jabatan" : "Ketua Umum",
+                "nama" : "Muhammad Farhan Zuhdi"
+            },
+            {
+                "jabatan" : "Wakil Ketua Umum",
+                "nama" : "M. Reza Rizki Rahmadi"
+            },
+            {
+                "jabatan" : "Sekretaris Umum",
+                "nama" : "Annisha Aprillya"
+            },
+            {
+                "jabatan" : "Bendahara Umum",
+                "nama" : "Raidha Qatrunnada"
+            }
+        ],
+        "divisi": [
+            {
+                "nama": "Informasi dan Media",
+                "kepala" : "Fadhilla Islamita Putri",
+                "sekre" : "Lisca Angriani",
+                "bendahara" : "Distifia Oktari",
+                "anggota" : [
+                    "Siti Nina Azwalia Tanjung",
+                    "Fauzan Maizardi",
+                    "Fathia Rahma Nazhifa",
+                    "Rafiqah",
+                    "Muhammad Rayhan Rizaldi",
+                    "Lara Busyanil"
+                ]
+            },
+            {
+                "nama": "Pengembangan Skill dan Intelektual",
+                "kepala" : "Iqbal Manazil Yuni",
+                "sekre" : "Riska Shifa Salsabilla",
+                "bendahara" : "Rahmadina",
+                "anggota" : [
+                    "Ginda Teguh Imani",
+                    "Nada Safarina",
+                    "Kemal Muhammad Hiero",
+                    "Hagi Siraj Sumanta",
+                    "Alif Abdul Rauf"
+                ]
+            },
+            {
+                "nama": "PSDM",
+                "kepala" : "Ahmad Fauzan Alqadri",
+                "sekre" : "Reysha Irsyalina",
+                "bendahara" : "Winanda A. Harisya",
+                "anggota" : [
+                    "Boby Darmawan",
+                    "Muhammad Farhan. A",
+                    "Doni Hamdani",
+                    "Muhammad Idris",
+                    "Vallen Adithya Rekhsana",
+                    "Muhammad Zaim Milzam",
+                    "Muhammad Yudhistira",
+                    "Siti Nur Aisah"
+                ]
+            },
+            {
+                "nama": "Rumah Tangga dan Kesekretariatan",
+                "kepala" : "Muhammad Afif",
+                "sekre" : "Desrilia Putri Utami",
+                "bendahara" : "Sri Ulfa Berliani",
+                "anggota" : [
+                    "Dean Fisabil Andwi",
+                    "Radithya Romero Al Giffary",
+                    "Nadilla Saraswati",
+                    "Faradila Suwandi"
+                ]
+            },
+            {
+                "nama": "Hubungan Masyarakat",
+                "kepala" : "Salsabila Ramadhani Putri",
+                "sekre" : "Deyola Fadwa Shifana",
+                "bendahara" : "Delicia Syifa Maghfira",
+                "anggota" : [
+                    "Shefilla Raisya Razade Stevano",
+                    "Zuha Bima Alfaruq",
+                    "Thomas Akram Ferdinan",
+                    "Muhammad Erlangga Adi Nugraha",
+                    "Faiz Abdullah"
+                ]
+            },
+            {
+                "nama": "Kewirausahaan",
+                "kepala" : "M. Kevin Beslia Fadillah",
+                "sekre" : "Ananda Fitria",
+                "bendahara" : "Ruth Emeralda Raihan",
+                "anggota" : [
+                    "Muhammad Al Hafiz",
+                    "Gita Putri",
+                    "Tri Ayunia Patma Lubis",
+                    "Baitul Azizah",
+                    "Taufik Hidayat"
+                ]
+            }
+        ]
+    }
+}
