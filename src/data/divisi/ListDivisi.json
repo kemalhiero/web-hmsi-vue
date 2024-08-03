@@ -1,0 +1,34 @@
+[
+    {
+        "nama" : "Inti",
+        "slug" : "inti"
+    },
+    {
+        "nama" : "PSDM",
+        "slug" : "psdm"
+    },
+    {
+        "nama" : "Internal",
+        "slug" : "internal"
+    },
+    {
+        "nama" : "Eksternal",
+        "slug" : "eksternal"
+    },
+    {
+        "nama" : "Bisnis Kreatif",
+        "slug" : "bikraf"
+    },
+    {
+        "nama" : "PSI",
+        "slug" : "psi"
+    },
+    {
+        "nama" : "RTK",
+        "slug" : "rtk"
+    },
+    {
+        "nama" : "Media Kreatif",
+        "slug" : "medkraf"
+    }
+]

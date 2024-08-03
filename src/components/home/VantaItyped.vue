@@ -1,54 +1,54 @@
 <script setup>
-import { ref, onMounted, onBeforeUnmount } from 'vue';
-import GLOBE from 'vanta/dist/vanta.globe.min';
-import { init as itypedInit } from 'ityped';
-import * as THREE from 'three';
+  import { ref, onMounted, onBeforeUnmount } from 'vue';
+  import GLOBE from 'vanta/dist/vanta.globe.min';
+  import { init as itypedInit } from 'ityped';
+  import * as THREE from 'three';
 
-const vantaEffect = ref(null);
+  const vantaEffect = ref(null);
 
-onMounted(() => {
-  if (window.innerWidth > 640) {
-    vantaEffect.value = GLOBE({
-      el: '#vanta-globe-hero',
-      THREE: THREE,
-      mouseControls: true,
-      touchControls: true,
-      gyroControls: false,
-      minHeight: 400.00,
-      minWidth: 200.00,
-      scale: 1.00,
-      scaleMobile: 0.30,
-      color: 0xffb737
-    });
+  onMounted(() => {
+    if (window.innerWidth > 640) {
+      vantaEffect.value = GLOBE({
+        el: '#vanta-globe-hero',
+        THREE: THREE,
+        mouseControls: true,
+        touchControls: true,
+        gyroControls: false,
+        minHeight: 400.00,
+        minWidth: 200.00,
+        scale: 1.00,
+        scaleMobile: 0.30,
+        color: 0xffb737
+      });
 
-    itypedInit("#ityped", {
-      strings: [
-        "Selamat Datang",
-        "Salamaik Datang",
-        "Saleum Teuka",
-        "Wilujeng Sumping",
-        "꧋ꦱꦸꦒꦼꦁꦫꦮꦸꦃ꧉",
-        "Horas!",
-        "Welcome",
-        "Willkommen",
-        "أهلا وسهلا",
-        "いらっしゃいませ",
-        "환영해",
-        "欢迎",
-      ],
-      typeSpeed: 100,
-      startDelay: 200,
-      backSpeed: 20,
-      backDelay: 2000,
-      loop: true,
-      cursorChar: "_",
-    });
-  }
-});
+      itypedInit("#ityped", {
+        strings: [
+          "Selamat Datang",
+          "Salamaik Datang",
+          "Saleum Teuka",
+          "Wilujeng Sumping",
+          "꧋ꦱꦸꦒꦼꦁꦫꦮꦸꦃ꧉",
+          "Horas!",
+          "Welcome",
+          "Willkommen",
+          "أهلا وسهلا",
+          "いらっしゃいませ",
+          "환영해",
+          "欢迎",
+        ],
+        typeSpeed: 100,
+        startDelay: 200,
+        backSpeed: 20,
+        backDelay: 2000,
+        loop: true,
+        cursorChar: "_",
+      });
+    }
+  });
 
-onBeforeUnmount(() => {
-  if (vantaEffect.value) vantaEffect.value.destroy();
-});
+  onBeforeUnmount(() => {
+    if (vantaEffect.value) vantaEffect.value.destroy();
+  });
 </script>
 
 <template>

@@ -1,7 +1,7 @@
 {
   "name": "web-hmsi-vue",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "pinia": "^2.2.0",
     "vue": "^3.4.31",
     "vue-router": "^4.4.0"
   },

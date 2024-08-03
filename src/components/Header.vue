@@ -1,5 +1,10 @@
 <script setup>
-  import { RouterLink } from 'vue-router'
+  import { RouterLink } from 'vue-router';
+  import { initDrawers } from 'flowbite'
+  import ListDivisi from '../data/divisi/ListDivisi.json'
+
+  initDrawers()
+
 </script>
 
 <template>
@@ -35,14 +40,9 @@
                 <svg class="fill-current" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z"/></svg>
               </a>
               <ul class="p-2 bg-base-100 text-black rounded-box">
-                <li><RouterLink to="/divisi/inti">Inti</RouterLink></li>
-                <li><RouterLink to="/divisi/psdm">PSDM</RouterLink></li>
-                <li><RouterLink to="/divisi/internal">Internal</RouterLink></li>
-                <li><RouterLink to="/divisi/eksternal">Eksternal</RouterLink></li>
-                <li><RouterLink to="/divisi/bikraf">Bisnis Kreatif</RouterLink></li>
-                <li><RouterLink to="/divisi/psi">PSI</RouterLink></li>
-                <li><RouterLink to="/divisi/rtk">RTK</RouterLink></li>
-                <li><RouterLink to="/divisi/medkraf">Media Kreatif</RouterLink></li>
+                <li v-for="divisi in ListDivisi">
+                  <RouterLink :to="`/divisi/${divisi.slug}`">{{ divisi.nama }}</RouterLink>
+                </li>
               </ul>
             </li>
             <li><RouterLink to="/blog">Blog</RouterLink></li>
@@ -50,7 +50,7 @@
           </ul>
 
 
-        <label class="inline-grid px-2 sm:hidden" data-drawer-target="drawer-right-example" data-drawer-show="drawer-right-example" data-drawer-placement="right" aria-controls="drawer-right-example">
+        <label class="inline-grid px-2 sm:hidden" data-drawer-target="drawer-right-hmsi" data-drawer-show="drawer-right-hmsi" data-drawer-placement="right" aria-controls="drawer-right-hmsi">
               
           <!-- hamburger icon -->
           <svg class="fill-current" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 512 512"><path d="M64,384H448V341.33H64Zm0-106.67H448V234.67H64ZM64,128v42.67H448V128Z"/></svg>

@@ -39,8 +39,3 @@
 .blog-normal{font-family: montserratregular, 'segoe ui', sans-serif;}
 .blog-tebal{font-family: montserratbold, 'segoe ui', sans-serif;}
 .tox-promotion{display: none;}
-
-
-.sub-dropdown {
-    @apply flex items-center w-full p-2 text-gray-900 transition duration-75 rounded-lg pl-11 hover:bg-gray-100;
-}

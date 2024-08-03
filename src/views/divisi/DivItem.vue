@@ -1,5 +1,5 @@
 <script setup>
-    import { onMounted, defineProps } from 'vue'
+    import { onMounted } from 'vue'
     import { initAccordions } from 'flowbite'
 
     // initialize components based on data attribute selectors
