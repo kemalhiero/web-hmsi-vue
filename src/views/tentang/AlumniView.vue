@@ -41,12 +41,12 @@
 
 <script setup>
 
-    import data2017 from '../../data/alumni/2017.json';
-    import data2018 from '../../data/alumni/2018.json';
-    import data2019 from '../../data/alumni/2019.json';
-    import data2020 from '../../data/alumni/2020.json';
-    import data2021 from '../../data/alumni/2021.json';
-    import data2022 from '../../data/alumni/2022.json';
+    import data2017 from '@/data/alumni/2017.json';
+    import data2018 from '@/data/alumni/2018.json';
+    import data2019 from '@/data/alumni/2019.json';
+    import data2020 from '@/data/alumni/2020.json';
+    import data2021 from '@/data/alumni/2021.json';
+    import data2022 from '@/data/alumni/2022.json';
 
     const dataPengurus = [  //urutan tahun yang tampil
         data2022,

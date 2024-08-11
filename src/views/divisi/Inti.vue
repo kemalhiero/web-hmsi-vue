@@ -9,14 +9,14 @@
         <p class="hmsi text-3xl sm:text-5xl text-white py-3">Ketua dan Wakil</p>
         <div class="flex flex-wrap justify-center mb-4">
             <div class="inline-block m-2 card w-80 max-w-sm bg-base-100 shadow-xl text-center sm:hover:-translate-y-2 duration-100">
-            <figure><img src="../../assets/img/pengurus/kahim.jpg" alt="ketua umum" class="max-h-min" loading="lazy"></figure>
+            <figure><img src="@asset/img/pengurus/kahim.jpg" alt="ketua umum" class="max-h-min" loading="lazy"></figure>
             <div class="card-body p-5">
                 <h2 class="card-title justify-center">M. Erlangga Adi Nugraha</h2>
                 <p>Ketua Himpunan</p>
             </div>
             </div>
             <div class="inline-block m-2 card w-80 max-w-sm bg-base-100 shadow-xl text-center sm:hover:-translate-y-2 duration-100">
-                <figure><img src="../../assets/img/pengurus/wakil.jpg" alt="wakil ketua" loading="lazy"></figure>
+                <figure><img src="@asset/img/pengurus/wakil.jpg" alt="wakil ketua" loading="lazy"></figure>
                 <div class="card-body p-5">
                     <h2 class="card-title justify-center">Lutfi Maulana</h2>
                     <p>Wakil Ketua Himpunan</p>
@@ -49,7 +49,7 @@
             <p class="hmsi text-3xl sm:text-5xl lg:hidden text-white pt-4">Sekretaris umum</p>
                 <div class="flex justify-center">
                     <div class="m-2 card lg:w-80 max-w-sm bg-base-100 shadow-xl text-center sm:hover:-translate-y-2 duration-100">
-                        <figure><img src="../../assets/img/pengurus/sekre.jpg" alt="sekretaris" class="max-h-min" loading="lazy"></figure>
+                        <figure><img src="@asset/img/pengurus/sekre.jpg" alt="sekretaris" class="max-h-min" loading="lazy"></figure>
                         <div class="card-body p-5">
                             <h2 class="card-title justify-center">Deyola Fadwa Shifana</h2>
                         </div>
@@ -68,7 +68,7 @@
                 <p class="hmsi text-3xl sm:text-5xl lg:hidden text-white pt-4">Bendahara umum</p>
                 <div class="flex justify-center">
                     <div class="m-2 card lg:w-80 max-w-sm bg-base-100 shadow-xl text-center sm:hover:-translate-y-2 duration-100">
-                        <figure><img src="../../assets/img/pengurus/bendum.jpg" alt="bendahara" class="max-h-min" loading="lazy"></figure>
+                        <figure><img src="@asset/img/pengurus/bendum.jpg" alt="bendahara" class="max-h-min" loading="lazy"></figure>
                         <div class="card-body p-5">
                             <h2 class="card-title justify-center">Husna Afiqah Yossyafra</h2>
                         </div>

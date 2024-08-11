@@ -11,7 +11,7 @@
   <nav class="navbar text-neutral-content sticky top-0 z-10 bg-[#23153c]">
     <div class="flex-1 px-2 lg:flex-none">
       <RouterLink to="/">
-        <img src="../assets/img/logo-hmsi.png" class="w-24 sm:w-28 sm:mx-9 mx-0" />
+        <img src="@asset/img/logo-hmsi.png" class="w-24 sm:w-28 sm:mx-9 mx-0" />
       </RouterLink>
     </div> 
     <div class="flex justify-end flex-1 px-2">

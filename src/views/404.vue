@@ -1,5 +1,5 @@
 <script setup>
-    import IconBurung from '../components/icons/IconBurung.vue';
+    import IconBurung from '@/components/icons/IconBurung.vue';
 </script>
 
 <template>

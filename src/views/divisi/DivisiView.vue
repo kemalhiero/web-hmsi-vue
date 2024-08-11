@@ -2,21 +2,21 @@
     import { ref, onMounted, readonly, watch } from 'vue';
     import { useRoute } from 'vue-router';
     import DivItem from './DivItem.vue';
-    import Error404 from '../404.vue';
+    // import Error404 from '../404.vue';
 
     const route = useRoute();
     const data = ref(null);
-    const dataNotFound = ref(false);
+    // const dataNotFound = ref(false);
 
     // Peta nama divisi ke file JSON yang sesuai
     const divisiData = {
-        bikraf: () => import('../../data/divisi/DivBikraf.json'),
-        eksternal: () => import('../../data/divisi/DivEksternal.json'),
-        internal: () => import('../../data/divisi/DivInternal.json'),
-        medkraf: () => import('../../data/divisi/DivMedkraf.json'),
-        psdm: () => import('../../data/divisi/DivPsdm.json'),
-        psi: () => import('../../data/divisi/DivPsi.json'),
-        rtk: () => import('../../data/divisi/DivRtk.json'),
+        bikraf: () => import('@/data/divisi/DivBikraf.json'),
+        eksternal: () => import('@/data/divisi/DivEksternal.json'),
+        internal: () => import('@/data/divisi/DivInternal.json'),
+        medkraf: () => import('@/data/divisi/DivMedkraf.json'),
+        psdm: () => import('@/data/divisi/DivPsdm.json'),
+        psi: () => import('@/data/divisi/DivPsi.json'),
+        rtk: () => import('@/data/divisi/DivRtk.json'),
         // tambahkan divisi lain di sini
     };
 
@@ -26,7 +26,7 @@
             const jsonData = await divisiData[divisi]();
             data.value = readonly(jsonData.default); // JSON data is under `default` property
         } else {
-        throw new Error(`Data for divisi ${divisi} not found`);
+            throw new Error(`Data for divisi ${divisi} not found`);
         }
     } catch (error) {
         console.error(error);

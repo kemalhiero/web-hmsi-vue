@@ -1,12 +1,8 @@
 <script setup>
     import { onMounted } from 'vue'
     import { initAccordions } from 'flowbite'
-
-    // initialize components based on data attribute selectors
-    onMounted(() => {
-        initAccordions();
-    })
-
+    import gambarPengurus from '@/composables/gambarPengurus.js';
+    
     defineProps({
         nama_lengkap: String,
         slug: String,
@@ -17,8 +13,15 @@
         nama_staf: Array,
         proker: Array,
     })
+    
+    import VDivisiIcon from '@/components/icons/IconVDivisi.vue';
+    
+    const getGambarPengurus = gambarPengurus();
 
-    import VDivisiIcon from '../../components/icons/IconVDivisi.vue';
+    // initialize components based on data attribute selectors
+    onMounted(() => {
+        initAccordions();
+    });
 
 </script>
 
@@ -31,7 +34,7 @@
     <div class="hero min-h-screen">
         <div class="hero-content flex-col lg:flex-row px-5 sm:px-16 2xl:px-0">
             <div class="flex justify-center">
-                <img :src="`/src/assets/img/pengurus/${slug}/${slug}.jpg`" :alt="`divisi ${slug}`" class="max-w-xs rounded-lg shadow-2xl sm:hover:-translate-y-2 duration-100" loading="lazy"/>
+                <img :src="getGambarPengurus(`${slug}/${slug}.jpg`)" :alt="`divisi ${slug}`" class="max-w-xs rounded-lg shadow-2xl sm:hover:-translate-y-2 duration-100" loading="lazy"/>
             </div>
             <div class=" text-neutral-content px-3 max-w-full text-center lg:text-left">
                 <p class="text-lg sm:text-xl font-bold">Apa itu divisi {{nama_lengkap}}?</p>
@@ -49,7 +52,7 @@
     <div class="flex flex-wrap justify-evenly pb-6">
         <div v-for="(itemstaf, index) in staf_inti" :key="index" class="inline-block m-2 card lg:w-72 max-w-xs bg-base-100 shadow-xl text-center sm:hover:-translate-y-2 duration-100">
             <figure>
-                <img :src="`/src/assets/img/pengurus/${slug}/${itemstaf.slug}-${slug}.jpg`" :alt="`${itemstaf.slug} ${slug}`" class="max-h-min" loading="lazy">
+                <img :src="getGambarPengurus(`${slug}/${itemstaf.slug}-${slug}.jpg`)" :alt="`${itemstaf.slug} ${slug}`" class="max-h-min" loading="lazy">
             </figure>
             <div class="card-body">
                 <h2 class="card-title justify-center">{{ itemstaf.nama }}</h2>
@@ -81,7 +84,7 @@
                             :aria-controls="`accordion-${index}-body`
                         ">
                             <span class="text-black">{{ item.heading_proker }}</span>
-                            <VDivisiIcon />
+                            <VDivisiIcon class="w-6 h-6 shrink-0 fill-current" />
                         </button>
                     </h2>
                     <div :id="`accordion-${index}-body`" class="hidden" :aria-labelledby="`accordion-${index}-heading`">

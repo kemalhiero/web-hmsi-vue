@@ -3,6 +3,7 @@
   import GLOBE from 'vanta/dist/vanta.globe.min';
   import { init as itypedInit } from 'ityped';
   import * as THREE from 'three';
+  import bgImage from '@asset/img/pengurus/smwahh.jpg';
 
   const vantaEffect = ref(null);
 
@@ -58,11 +59,11 @@
   </div>
 
   <!-- untuk layar HP -->
-  <div class="hero min-h-screen sm:hidden" style="background-image: url(/src/assets/img/pengurus/smwahh.jpg);">
+  <div class="hero min-h-screen sm:hidden" :style="{ backgroundImage: `url(${bgImage})` }">
     <div class="hero-overlay bg-opacity-80"></div>
     <div class="hero-content text-center text-neutral-content">
       <div class="max-w-md">
-        <img src="../../assets/img/logo-hmsi.png" alt="logo-hmsi" class="h-36 mx-auto">
+        <img src="@asset/img/logo-hmsi.png" alt="logo-hmsi" class="h-36 mx-auto">
         <h1 class="mb-5 text-4xl font-bold">Selamat Datang!</h1>
         <p class="mb-48">di situs web resmi<br>Himpunan Mahasiswa Sistem Informasi<br>Universitas Andalas</p>
       </div>

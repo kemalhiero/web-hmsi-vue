@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import HomeView from '../views/HomeView.vue'
+import HomeView from '@/views/HomeView.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -15,46 +15,46 @@ const router = createRouter({
       // route level code-splitting
       // this generates a separate chunk (About.[hash].js) for this route
       // which is lazy-loaded when the route is visited.
-      component: () => import('../views/IsceView.vue')
+      component: () => import('@/views/IsceView.vue')
     },
     // tentang
     {
       path: '/tentang',
       name: 'tentang',
-      component: () => import('../views/tentang/Tentang.vue')
+      component: () => import('@/views/tentang/Tentang.vue')
     },
     {
       path: '/tentang/lambang',
       name: 'lambang',
-      component: () => import('../views/tentang/Lambang.vue')
+      component: () => import('@/views/tentang/Lambang.vue')
     },
     {
       path: '/tentang/alumni',
       name: 'alumni',
-      component: () => import('../views/tentang/AlumniView.vue')
+      component: () => import('@/views/tentang/AlumniView.vue')
     },
     // divisi
     {
       path: '/divisi/inti',
       name: 'inti',
-      component: () => import('../views/divisi/Inti.vue')
+      component: () => import('@/views/divisi/Inti.vue')
     },
     {
       path: '/divisi/:divisi',
       name: 'divisi',
-      component: () => import('../views/divisi/DivisiView.vue')
+      component: () => import('@/views/divisi/DivisiView.vue')
     },
     // blog
     {
       path: '/blog',
       name: 'blog',
-      component: () => import('../views/Blog.vue')
+      component: () => import('@/views/Blog.vue')
     },
     // not found
     {
       path: '/:pathMatch(.*)*',
       name: 'NotFound',
-      component: () => import('../views/404.vue')
+      component: () => import('@/views/404.vue')
     }
   ]
 })
